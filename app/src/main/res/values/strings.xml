@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KoboChallenge</string>
+    <string name="first_name">First Name: %1$s</string>
+    <string name="last_name">Last Name: %1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="desc">Description: %1$s</string>
+</resources>
